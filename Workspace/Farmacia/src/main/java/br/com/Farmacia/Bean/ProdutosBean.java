@@ -54,6 +54,8 @@ public class ProdutosBean {
 		this.itensFiltrados = itensFiltrados;
 	}
 
+	
+	@PostConstruct
 	public void prepararPesquisa() {
 
 		try {
@@ -67,7 +69,7 @@ public class ProdutosBean {
 
 	}
 
-	@PostConstruct
+	
 	public void prepararNovo() {
 
 		try {
