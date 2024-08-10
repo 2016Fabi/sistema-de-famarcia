@@ -1,4 +1,4 @@
-⭐️ Projeto de Sistema de Farmácia em Java Web ⭐️
+## ⭐️ Projeto de Sistema de Farmácia em Java Web ⭐️
 
 # As tecnologias que eu usei pra fazer esse sistema foi XHTML, CSS e JAVASCRIPT.
 
